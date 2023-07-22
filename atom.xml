@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Welcome!</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2023-07-18T13:12:48.540Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>MyComputer</title>
+    <link href="http://example.com/2023/07/18/%E7%94%B5%E8%84%91%E6%97%A5%E5%B8%B8/"/>
+    <id>http://example.com/2023/07/18/%E7%94%B5%E8%84%91%E6%97%A5%E5%B8%B8/</id>
+    <published>2023-07-18T12:03:36.547Z</published>
+    <updated>2023-07-18T13:12:48.540Z</updated>
+    
+    <content type="html"><![CDATA[<p>桌面（异常干净）<img src="https://z4a.net/images/2023/07/18/Snipaste_2023-07-18_19-59-37.png" alt="Snipaste_2023-07-18_19-59-37.png"></p><p>github主页<img src="https://z4a.net/images/2023/07/18/Snipaste_2023-07-18_20-00-59.png" alt="Snipaste_2023-07-18_20-00-59.png"></p><p>别的没了就这</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;桌面（异常干净）&lt;img src=&quot;https://z4a.net/images/2023/07/18/Snipaste_2023-07-18_19-59-37.png&quot; alt=&quot;Snipaste_2023-07-18_19-59-37.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;gith</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
